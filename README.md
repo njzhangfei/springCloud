@@ -26,10 +26,14 @@ feign负载均衡
 Hystrix断路器，熔断服务
 9、microservice-consumer-feign-hystrix
 熔断降级服务
+http://localhost:7003/consumer/get/1
 10、microservice-consumer-hystrix-dashbord
 监控服务
+http://localhost:7002/hystrix
+http://localhost:8005/hystrix.stream
 11、microservice-zull
 路由服务
+http://localhost:6001/wms/provider//getUser/list
 12、microservice-config-server
 配置服务
 
